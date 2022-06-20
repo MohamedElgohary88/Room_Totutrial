@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room_Totutrial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_tittle">Write Tittle</string>
+    <string name="add_note">Add Note</string>
+    <string name="write_description">Write Description</string>
+    <string name="update_note">Update Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
